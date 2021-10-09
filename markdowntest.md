@@ -12,3 +12,5 @@ markdown coding
 
 コメント追加
 お試し
+
+`unsigned char test_code`
